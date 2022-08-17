@@ -1,0 +1,8 @@
+
+tpython:S117)"XRename this local variable "cableId" to match the regular expression ^[_a-z][a-z0-9_]*$.(°•è­üÿÿÿÿ
+ƒpython:S117&"gRename this local variable "connectorLossThreshold" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ø§ùÿÿÿÿ
+python:S117'"jRename this local variable "eventReflectanceThreshold" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙçŞÑ
+ppython:S1173"YRename this local variable "passFail" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÅñ¬
+{python:S117%"dRename this local variable "spliceLossThreshold" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Üò
+python:S117("cRename this local variable "strandOrlThreshold" to match the regular expression ^[_a-z][a-z0-9_]*$.(Âîşøøÿÿÿÿ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(×à‡šşÿÿÿÿ
